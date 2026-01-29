@@ -20,6 +20,7 @@ I don't just design systems-I build them.
 - **[Robolectric](https://github.com/robolectric/robolectric/pull/49)** - Implemented `getAppWidgetIds()` for Android widget testing
 - **[play-logback-access](https://github.com/cardamo/play-logback-access/pulls?q=is%3Apr+author%3Asdudzin+is%3Amerged)** - Upgraded to Play 3
 - **[logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder/pull/363)**, **[sbt-jib](https://github.com/sbt-jib/sbt-jib/pull/93)** - Dependency updates
+- **[Play Framework](https://github.com/playframework/playframework/pull/12526)** - EhCache 3 support, might move to a separate sub-project (In Progress).
 
 Earlier contributions to JBoss and Maven plugin ecosystems.
 
