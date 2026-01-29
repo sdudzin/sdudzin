@@ -28,6 +28,7 @@ Earlier contributions to JBoss and Maven plugin ecosystems.
 - 🔧 Building a SaaS product with Generative AI and Spring AI
 - 🌱 Deepening my skills in LLMs, embeddings, and vector databases
 - 💬 Open to contract projects involving event-driven systems, cloud migration, or AI integration
+- 💬 Also open to co-founder roles, early-stage partnerships, or staff/principal positions at the right company.
 
 ## Tech I Work With
 
