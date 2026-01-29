@@ -27,11 +27,11 @@ Earlier contributions to JBoss and Maven plugin ecosystems.
 
 - 🔧 Building a SaaS product with Generative AI and Spring AI
 - 🌱 Deepening my skills in LLMs, embeddings, and vector databases
-- 💬 Open to freelance projects involving event-driven systems, cloud migration, or AI integration
+- 💬 Open to contract projects involving event-driven systems, cloud migration, or AI integration
 
 ## Tech I Work With
 
-`Scala` `Java` `Akka/Pekko` `Kafka` `Spring AI` `OpenAI API` `Kubernetes` `Azure` `Cassandra` `PostgreSQL` `Elasticsearch`
+`Scala` `Java` `Akka/Pekko` `Cats Effect` `Kafka` `Spring AI` `OpenAI API` `Kubernetes` `Azure` `Cassandra` `PostgreSQL` `Elasticsearch`
 
 ## Let's Connect
 
