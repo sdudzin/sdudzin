@@ -22,7 +22,7 @@ I don't just design systems-I build them.
 - **[logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder/pull/363)**, **[sbt-jib](https://github.com/sbt-jib/sbt-jib/pull/93)** - Dependency updates
 - **[Play Framework](https://github.com/playframework/playframework/pull/12526)** - EhCache 3 support, might move to a separate sub-project (In Progress).
 
-Earlier contributions to JBoss and Maven plugin ecosystems.
+Earlier contributions to JBoss, Maven plugin ecosystems and libshout-java.
 
 ## Currently
 
