@@ -22,7 +22,7 @@ I don't just design systems-I build them.
 - **[logstash-logback-encoder](https://github.com/logfellow/logstash-logback-encoder/pull/363)**, **[sbt-jib](https://github.com/sbt-jib/sbt-jib/pull/93)** - Dependency updates
 - **[Play Framework](https://github.com/playframework/playframework/pull/12526)** - EhCache 3 support, might move to a separate sub-project (In Progress).
 
-** Playground **
+**Playground:**
  - **[Quote Demo app](https://github.com/sdudzin/quotes-demo)** A small demo application based on Spring Boot WebFlux and Spring AI that fetches random quotes from an external API and finds similar quotes using semantic search (embeddings via Ollama + pgvector). It uses hexagonal architecture in combination with Use Case pattern.
 
 Earlier contributions to JBoss, Maven plugin ecosystems and libshout-java.
