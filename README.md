@@ -16,6 +16,7 @@ I don't just design systems-I build them.
 - **[play-mockws-standalone](https://github.com/Hiveteq/play-mockws-standalone)** - Mock WS client for testing Play Framework applications
 
 **Contributor:**
+- ** Spring AI ** - [Replay reasoning_content in OpenAI assistant history](https://github.com/spring-projects/spring-ai/commit/b1df49934b06f379ae249b8cc27aa07d7a7c1111)
 - **Akka / Apache Pekko ecosystem** - [Akka Kafka](https://github.com/akka/alpakka-kafka/pulls?q=author:sdudzin) (partial offset commit on failure, reduces duplicates on restarts), [Akka Persistence Cassandra](https://github.com/akka/akka-persistence-cassandra/pull/545) (config cleanup), [Pekko commit](https://github.com/apache/pekko-connectors-kafka/commit/924b4b34acc8cca295429aadbcbd411fe210f197)
 - **[Robolectric](https://github.com/robolectric/robolectric/pull/49)** - Implemented `getAppWidgetIds()` for Android widget testing
 - **[play-logback-access](https://github.com/cardamo/play-logback-access/pulls?q=is%3Apr+author%3Asdudzin+is%3Amerged)** - Upgraded to Play 3
